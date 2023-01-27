@@ -4,3 +4,4 @@ git config --global user.name "kainel54"
 git config --global user.email "kainel0504@gmail.com"
 
 git commit -m "첫번째 커밋입니다."
+아무거나
